@@ -20,3 +20,5 @@ key=T
 You don't have to define open & close, if you only want 1 of the sounds to play.
 
 A list of keys can be found [here](https://wiki.libsdl.org/SDL_Keycode) under the "Key Name" tab.
+
+Thanks to benhoyt for inih!
